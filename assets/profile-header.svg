@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Carlo Felipe — software built around real work</title>
+<desc id="desc">A blueprint drawing sheet with a schematic of an interface, workflow, and data layer. Full-stack engineer, Philippines.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#a8bddc" stroke-opacity=".10"/></pattern></defs>
+<rect width="1200" height="420" fill="#183a6b"/><rect width="1200" height="420" fill="url(#grid)"/>
+<g fill="none" stroke="#a8bddc"><rect x="20" y="20" width="1160" height="380"/><path d="M8 32H32M20 8V44M1168 20H1192M1180 8V44M8 388H32M20 376V412M1168 400H1192M1180 376V412"/></g>
+<g font-family="monospace" fill="#a8bddc" font-size="13" letter-spacing="2"><text x="52" y="58">C. A. FELIPE / ENGINEERING FIELD NOTES</text><text x="930" y="58">SHEET 01 / PROFILE</text></g>
+<path d="M52 78H1148" stroke="#a8bddc" stroke-opacity=".5"/>
+<g fill="#eef3fb" font-family="Arial, Helvetica, sans-serif" font-weight="700"><text x="52" y="156" font-size="52">Software built</text><text x="52" y="216" font-size="52">around real work.</text></g>
+<text x="54" y="259" font-family="monospace" font-size="16" fill="#a8bddc">Business systems / Workflows / Integrations</text>
+<g stroke="#eef3fb" fill="none" stroke-width="1.5"><rect x="775" y="115" width="142" height="90"/><path d="M775 138H917M789 128H812M789 151H845M789 165H880M789 179H855M917 160H957V248H990"/><rect x="990" y="217" width="128" height="64"/><path d="M1006 239H1062M1006 254H1099M990 248H860V290H775"/><rect x="704" y="266" width="71" height="49"/></g>
+<g font-family="monospace" font-size="12" fill="#a8bddc" letter-spacing="1"><text x="775" y="104">01 / INTERFACE</text><text x="990" y="206">02 / WORKFLOW</text><text x="704" y="337">03 / DATA</text></g>
+<g fill="#eef3fb"><rect x="953" y="156" width="8" height="8"/><rect x="856" y="244" width="8" height="8"/></g>
+<path d="M52 355H1148M755 355V400M990 355V400" stroke="#a8bddc" stroke-opacity=".5"/>
+<g font-family="monospace" font-size="13" fill="#eef3fb"><text x="52" y="383">CARLO FELIPE / FULL-STACK ENGINEER</text><text x="780" y="383">PHILIPPINES</text><text x="1014" y="383">NOT TO SCALE</text></g>
+</svg>
